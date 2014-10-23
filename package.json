@@ -1,0 +1,12 @@
+{
+  "name": "personal-flight-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web for my personal use.",
+  "main": "app.js",
+  "author": "lricoy",
+  "dependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+    "bunyan": "~1.2.0"
+  }
+}

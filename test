@@ -1,0 +1,37 @@
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Checking the Params...","time":"2014-10-23T05:57:23.471Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Making the request to the server...","time":"2014-10-23T05:57:23.471Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Applying RegExp to get the data...","time":"2014-10-23T05:57:23.542Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Searching for the desired data... { total: 18 }","time":"2014-10-23T05:57:23.544Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Cleaning the data... { foundAt: 4 }","time":"2014-10-23T05:57:23.544Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Evaluating and loading the data... { length: 1981 }","time":"2014-10-23T05:57:23.545Z","v":0}
+{"name":"scrapperLog","hostname":"lucas-Inspiron-5420","pid":12828,"level":30,"msg":"Transversing the data into the new format...","time":"2014-10-23T05:57:23.545Z","v":0}
+ var dataHoraGeracao = "22/10/2014 às 17:33";
+
+var origens = ["Rio de Janeiro"];
+var destinos = ["Santiago"];
+
+var ofertas = [
+  ["Rio de Janeiro","Santiago","443","08/01","15/01","Tam","http://voo.la/jI8Z"],
+  ["Rio de Janeiro","Santiago","443","09/01","15/01","Tam","http://voo.la/jI8a"],
+  ["Rio de Janeiro","Santiago","443","09/01","17/01","Tam","http://voo.la/jI8b"],
+  ["Rio de Janeiro","Santiago","443","10/01","15/01","Tam","http://voo.la/jI8c"],
+  ["Rio de Janeiro","Santiago","443","10/01","17/01","Tam","http://voo.la/fI9R"],
+  ["Rio de Janeiro","Santiago","443","18/01","29/01","Combo","http://voo.la/iI3g"],
+  ["Rio de Janeiro","Santiago","443","19/01","26/01","Tam","http://voo.la/gI4s"],
+  ["Rio de Janeiro","Santiago","443","20/01","26/01","Tam","http://voo.la/hIEt"],
+  ["Rio de Janeiro","Santiago","443","20/01","29/01","Tam","http://voo.la/iI3h"],
+  ["Rio de Janeiro","Santiago","443","21/01","26/01","Tam","http://voo.la/hIEu"],
+  ["Rio de Janeiro","Santiago","443","21/01","31/01","Tam","http://voo.la/gI4t"],
+  ["Rio de Janeiro","Santiago","443","22/01","26/01","Tam","http://voo.la/gI4u"],
+  ["Rio de Janeiro","Santiago","443","22/01","31/01","Tam","http://voo.la/gI4v"],
+  ["Rio de Janeiro","Santiago","443","23/01","26/01","Tam","http://voo.la/gI4w"],
+  ["Rio de Janeiro","Santiago","443","23/01","29/01","Tam","http://voo.la/jI8d"],
+  ["Rio de Janeiro","Santiago","443","23/01","31/01","Tam","http://voo.la/fI9S"],
+  ["Rio de Janeiro","Santiago","443","25/01","02/02","Tam","http://voo.la/hIEv"],
+  ["Rio de Janeiro","Santiago","443","25/01","05/02","Tam","http://voo.la/jI8e"],
+  ["Rio de Janeiro","Santiago","443","26/01","02/02","Tam","http://voo.la/gI4x"],
+  ["Rio de Janeiro","Santiago","443","28/01","02/02","Tam","http://voo.la/gI4y"],
+  ["Rio de Janeiro","Santiago","443","30/01","02/02","Tam","http://voo.la/iI3i"],
+  ["Rio de Janeiro","Santiago","443","30/01","05/02","Tam","http://voo.la/iI3j"]
+];
+          							
