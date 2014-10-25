@@ -13,8 +13,8 @@ if(param_url == undefined) {
     log.warn("Url not given");
 }
 
-// Check if file exists
-fs.exists("website_links.json", function(exists) {
+// Check if dir and file exists
+fs.exists("outputs/website_links.json", function(exists) {
   if (!exists && param_url == undefined) {
     log.error("File with the website links does not exist and single URL was not specified");
     process.exit();
@@ -70,7 +70,7 @@ var extract_page = function(url) {
 
                     log.info("Saving the new data into a file");
 
-                    var filename = "./pages/" + url.substring(url.indexOf('r/')+2, url.length) + ".json";
+                    var filename = "./outputs/" + url.substring(url.indexOf('r/')+2, url.length) + ".json";
                     fs.writeFile(filename , JSON.stringify(pageJSON, null, 4), function(err) {
                         if(err) {
                           log.error("An error ocurred while saving the JSON", {err: err});
@@ -90,7 +90,7 @@ var extract_page = function(url) {
 var main = function() {
 
     if(!param_url) {
-        fs.readFile('website_links.json', function read(err, data) {
+        fs.readFile('./outputs/website_links.json', function read(err, data) {
             if (err) {
                 throw err;
             }

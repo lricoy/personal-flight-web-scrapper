@@ -12,11 +12,20 @@ if(url == undefined) {
     process.exit();
 }
 
+// Check if file exists
+fs.exists("outputs", function(exists) {
+  if (!exists) {
+    fs.mkdir("outputs");
+  }
+});
+
 var headlines = [];
-var limit = 10;
+var limit = process.argv[3] || 1;
 var count = 0;
 
 var scrapLinks = function (url, check_complete) {
+
+    if(count >= limit) return;
 
     log.info("Making the request to the server...");
     request(url, function(error, response, html) { 
@@ -38,7 +47,7 @@ var scrapLinks = function (url, check_complete) {
             log.info("Checking if there is more pages to scrap");
             var navigation_link = $('#nav-below .nav-previous a');
 
-            if(navigation_link.length > 0 && count <= limit) {
+            if(navigation_link.length > 0) {
                 count++;
                 scrapLinks(navigation_link.attr('href'));
             }
@@ -46,7 +55,7 @@ var scrapLinks = function (url, check_complete) {
 
                 log.info("Scrapping complete. Going to write JSON to file now");
 
-                fs.writeFile("website_links.json", JSON.stringify(headlines, null, 4), function(err) {
+                fs.writeFile("outputs/website_links.json", JSON.stringify(headlines, null, 4), function(err) {
                     if(err) {
                       log.error("An error ocurred while saving the JSON", {err: err});
                     } else {
