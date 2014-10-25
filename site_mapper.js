@@ -20,12 +20,13 @@ fs.exists("outputs", function(exists) {
 });
 
 var headlines = [];
-var limit = process.argv[3] || 1;
+var limit = 1;
 var count = 0;
 
 var scrapLinks = function (url, check_complete) {
 
     if(count >= limit) return;
+    count++;
 
     log.info("Making the request to the server...");
     request(url, function(error, response, html) { 
@@ -47,8 +48,7 @@ var scrapLinks = function (url, check_complete) {
             log.info("Checking if there is more pages to scrap");
             var navigation_link = $('#nav-below .nav-previous a');
 
-            if(navigation_link.length > 0) {
-                count++;
+            if(navigation_link.length > 0 && count != limit) {
                 scrapLinks(navigation_link.attr('href'));
             }
             else {
