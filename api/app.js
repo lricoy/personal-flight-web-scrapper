@@ -36,5 +36,10 @@ var Resource = app.resource = restful.model('Oferta', Oferta)
 
 Resource.register(app, '/ofertas');
 
-app.listen(3000);
-log.info("App listening");
+var port = 3000;
+if(process.env.ENV && process.env.ENV_VARIABLE === 'HEROKU') {
+    port = 80;
+}
+
+app.listen(port);
+log.info("App listening at port: "+port);
