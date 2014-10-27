@@ -37,7 +37,7 @@ var Resource = app.resource = restful.model('Oferta', Oferta)
 Resource.register(app, '/ofertas');
 
 var port = 3000;
-if(process.env.ENV && process.env.ENV_VARIABLE === 'HEROKU') {
+if(process.env.ENV && process.env.ENV === 'HEROKU') {
     port = 80;
 }
 
