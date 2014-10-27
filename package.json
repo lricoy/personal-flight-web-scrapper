@@ -11,5 +11,6 @@
     "mongoose": "~3.8.18",
     "node-restful": "~0.1.17",
     "express": "~4.10.0"
-  }
+  },
+  "scripts": { "start": "node api/app.js"}
 }
