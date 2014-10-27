@@ -37,5 +37,8 @@ var Resource = app.resource = restful.model('Oferta', Oferta)
 
 Resource.register(app, '/ofertas');
 
-app.listen(app.get('port'));
-log.info("App listening at port: "+port);
+app.listen(app.get('port'), function() {
+  log.info('Express server listening on port %d in %s mode', app.get('port'), app.get('env'));
+});
+
+module.exports = app;
