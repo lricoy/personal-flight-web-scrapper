@@ -2,11 +2,14 @@
   "name": "personal-flight-web-scrape",
   "version": "0.0.1",
   "description": "Scrape le web for my personal use.",
-  "main": "app.js",
+  "main": "api/app.js",
   "author": "lricoy",
   "dependencies": {
     "request": "latest",
     "cheerio": "latest",
-    "bunyan": "~1.2.0"
+    "bunyan": "~1.2.0",
+    "mongoose": "~3.8.18",
+    "node-restful": "~0.1.17",
+    "express": "~4.10.0"
   }
 }

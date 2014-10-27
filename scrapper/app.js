@@ -2,7 +2,7 @@ var fs      = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var bunyan = require('bunyan');
-var log = bunyan.createLogger({name: "scrapperLog"});
+var log = bunyan.createLogger({name: "scrapperLog.app"});
 
 
 // Sanity Checks
@@ -13,14 +13,13 @@ if(param_url == undefined) {
     log.warn("Url not given");
 }
 
-// Check if dir and file exists
+// Check if file exists
 fs.exists("outputs/website_links.json", function(exists) {
   if (!exists && param_url == undefined) {
     log.error("File with the website links does not exist and single URL was not specified");
     process.exit();
   }
 });
-
 
 var pageJSON = {
     "scrappedAt": new Date(),

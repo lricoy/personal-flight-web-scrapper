@@ -2,7 +2,7 @@ var fs      = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var bunyan = require('bunyan');
-var log = bunyan.createLogger({name: "scrapperLog"});
+var log = bunyan.createLogger({name: "scrapperLog.site_mapper"});
 
 
 log.info("Checking the Params...");

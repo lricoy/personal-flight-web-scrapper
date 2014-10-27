@@ -1,0 +1,1108 @@
+{
+    "scrappedAt": "2014-10-26T01:00:12.038Z",
+    "generatedAt": "22/10/2014 às 09:44",
+    "origens": [
+        "Rio de Janeiro"
+    ],
+    "destinos": [
+        "Santo Domingo"
+    ],
+    "ofertas": [
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/03",
+            "data_volta": "10/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/03",
+            "data_volta": "13/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/03",
+            "data_volta": "20/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "23/03",
+            "data_volta": "30/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/03",
+            "data_volta": "31/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/03",
+            "data_volta": "01/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "31/03",
+            "data_volta": "07/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/04",
+            "data_volta": "10/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/04",
+            "data_volta": "13/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "08/04",
+            "data_volta": "15/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "10/04",
+            "data_volta": "17/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "14/04",
+            "data_volta": "21/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/04",
+            "data_volta": "06/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "30/04",
+            "data_volta": "07/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/05",
+            "data_volta": "08/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/05",
+            "data_volta": "13/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/05",
+            "data_volta": "20/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "14/05",
+            "data_volta": "21/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "15/05",
+            "data_volta": "22/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "18/05",
+            "data_volta": "25/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "19/05",
+            "data_volta": "26/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "20/05",
+            "data_volta": "27/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "21/05",
+            "data_volta": "28/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "22/05",
+            "data_volta": "29/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/05",
+            "data_volta": "01/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "26/05",
+            "data_volta": "02/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "27/05",
+            "data_volta": "03/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/05",
+            "data_volta": "04/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/05",
+            "data_volta": "05/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/06",
+            "data_volta": "08/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "02/06",
+            "data_volta": "09/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/06",
+            "data_volta": "10/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "04/06",
+            "data_volta": "11/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "05/06",
+            "data_volta": "12/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "08/06",
+            "data_volta": "15/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "10/06",
+            "data_volta": "17/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "11/06",
+            "data_volta": "18/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "12/06",
+            "data_volta": "19/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "16/06",
+            "data_volta": "23/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "17/06",
+            "data_volta": "24/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "18/06",
+            "data_volta": "25/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "22/06",
+            "data_volta": "29/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/06",
+            "data_volta": "06/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "10/07",
+            "data_volta": "17/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "23/07",
+            "data_volta": "30/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "30/07",
+            "data_volta": "06/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/08",
+            "data_volta": "10/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "04/08",
+            "data_volta": "11/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "05/08",
+            "data_volta": "12/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/08",
+            "data_volta": "13/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "07/08",
+            "data_volta": "14/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "12/08",
+            "data_volta": "19/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/08",
+            "data_volta": "20/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "17/08",
+            "data_volta": "24/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "18/08",
+            "data_volta": "25/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "19/08",
+            "data_volta": "26/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "21/08",
+            "data_volta": "28/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/08",
+            "data_volta": "31/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/08",
+            "data_volta": "01/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "26/08",
+            "data_volta": "02/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "27/08",
+            "data_volta": "03/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/08",
+            "data_volta": "04/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "31/08",
+            "data_volta": "07/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/09",
+            "data_volta": "08/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "20/02",
+            "data_volta": "06/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/02",
+            "data_volta": "10/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/03",
+            "data_volta": "17/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/03",
+            "data_volta": "20/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "12/03",
+            "data_volta": "26/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/03",
+            "data_volta": "27/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "16/03",
+            "data_volta": "30/03",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/03",
+            "data_volta": "07/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/03",
+            "data_volta": "08/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "27/03",
+            "data_volta": "10/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "30/03",
+            "data_volta": "13/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "31/03",
+            "data_volta": "14/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/04",
+            "data_volta": "15/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/04",
+            "data_volta": "17/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/04",
+            "data_volta": "20/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "07/04",
+            "data_volta": "21/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "08/04",
+            "data_volta": "22/04",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "22/04",
+            "data_volta": "06/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "23/04",
+            "data_volta": "07/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/04",
+            "data_volta": "08/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/04",
+            "data_volta": "12/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/04",
+            "data_volta": "13/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/05",
+            "data_volta": "20/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "08/05",
+            "data_volta": "22/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "11/05",
+            "data_volta": "25/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/05",
+            "data_volta": "27/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "14/05",
+            "data_volta": "28/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "15/05",
+            "data_volta": "29/05",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "18/05",
+            "data_volta": "01/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "19/05",
+            "data_volta": "02/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "20/05",
+            "data_volta": "03/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "21/05",
+            "data_volta": "04/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "22/05",
+            "data_volta": "05/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/05",
+            "data_volta": "08/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "26/05",
+            "data_volta": "09/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "27/05",
+            "data_volta": "10/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/05",
+            "data_volta": "11/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/05",
+            "data_volta": "12/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/06",
+            "data_volta": "15/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "02/06",
+            "data_volta": "16/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/06",
+            "data_volta": "17/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "05/06",
+            "data_volta": "19/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "08/06",
+            "data_volta": "22/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "09/06",
+            "data_volta": "23/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "10/06",
+            "data_volta": "24/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "11/06",
+            "data_volta": "25/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "15/06",
+            "data_volta": "29/06",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "22/06",
+            "data_volta": "06/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "23/06",
+            "data_volta": "07/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/06",
+            "data_volta": "08/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "16/07",
+            "data_volta": "30/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "17/07",
+            "data_volta": "31/07",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "23/07",
+            "data_volta": "06/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/07",
+            "data_volta": "11/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "29/07",
+            "data_volta": "12/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "30/07",
+            "data_volta": "13/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "03/08",
+            "data_volta": "17/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "04/08",
+            "data_volta": "18/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "05/08",
+            "data_volta": "19/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "06/08",
+            "data_volta": "20/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "12/08",
+            "data_volta": "26/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "13/08",
+            "data_volta": "27/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "14/08",
+            "data_volta": "28/08",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "18/08",
+            "data_volta": "01/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "19/08",
+            "data_volta": "02/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "21/08",
+            "data_volta": "04/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "24/08",
+            "data_volta": "07/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "25/08",
+            "data_volta": "08/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "26/08",
+            "data_volta": "09/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "27/08",
+            "data_volta": "10/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "28/08",
+            "data_volta": "11/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "31/08",
+            "data_volta": "14/09",
+            "empresa": "Gol"
+        },
+        {
+            "origem": "Rio de Janeiro",
+            "destino": "Santo Domingo",
+            "preco": "1.368",
+            "data_ida": "01/09",
+            "data_volta": "15/09",
+            "empresa": "Gol"
+        }
+    ]
+}
