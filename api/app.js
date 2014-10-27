@@ -9,6 +9,7 @@ var app = express();
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json({extended: false}));
+app.set('port', process.env.PORT || 3000);
 
 mongoose.connect('mongodb://app:app123qwe@ds047940.mongolab.com:47940/melhores-destinos');
 
@@ -36,10 +37,5 @@ var Resource = app.resource = restful.model('Oferta', Oferta)
 
 Resource.register(app, '/ofertas');
 
-var port = 3000;
-if(process.env.ENV && process.env.ENV === 'HEROKU') {
-    port = 80;
-}
-
-app.listen(port);
+app.listen(app.get('port'));
 log.info("App listening at port: "+port);
