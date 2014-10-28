@@ -11,6 +11,17 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json({extended: false}));
 app.set('port', process.env.PORT || 3000);
 
+//CORS middleware
+var allowCrossDomain = function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With, x-access-token');
+
+    next();
+};
+
+app.use(allowCrossDomain);
+
 mongoose.connect('mongodb://app:app123qwe@ds047940.mongolab.com:47940/melhores-destinos');
 
 var Oferta = mongoose.Schema(
